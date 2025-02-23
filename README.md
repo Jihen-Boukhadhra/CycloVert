@@ -20,5 +20,5 @@
 > ----> Réduire les déchets et limiter l'empreinte écologique  des entreprises grâce à notre solution
 
 
-4. # Code:
+# 4. Code:
 > En train de coder collaborativement cette magnifique application.
